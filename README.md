@@ -29,6 +29,8 @@ This project started as an experiment using Google AI Studio and was rebuilt, cu
 4. Sort all balls by color to win the level!
 
 ## 🚀 Live Demo
+<img width="1600" height="900" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/55893edc-7b88-44a3-87aa-c3ee9fc91fe8" />
+
 
 [Play Orbital Puzzle here](https://your-vercel-link-here.vercel.app)
 
